@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+.top-container{
+    width: 1000px;
+    margin: 0 auto;
+}
+.intro{
+    text-align: center;
+}
+#my-photo{
+    width: 50%;
+ }
